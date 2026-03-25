@@ -62,7 +62,7 @@ This project proves that data-driven HR can save millions in recruitment costs. 
 
 How to Use This Repository
 
-Clone the repo: git clone https://github.com/your-username/hr-attrition-prediction.git
+Clone the repo: git clone https://github.com/tariq2305/hr-attrition-prediction.git
 
 Run the Notebook: Open Attrition_Analysis.ipynb to see the ML workflow.
 
