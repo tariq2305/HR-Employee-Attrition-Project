@@ -1,4 +1,5 @@
 📊 HR Attrition Analysis & Predictive Modeling 🚀
+
 📋 Project Overview
 Employee turnover is a silent killer for corporate growth. This project focuses on predictive analytics to understand why employees leave and who is likely to leave next. By combining Python for machine learning, SQL for data management, and Power BI for storytelling, we’ve built a tool that transforms raw HR data into a proactive retention strategy. 💡
 
